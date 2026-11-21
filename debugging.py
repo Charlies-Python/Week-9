@@ -35,7 +35,7 @@ for n in numbers:
         print()
 print("Exercise 5")
 i = 1
-while i<101:
+while i<=100:
     print(i)
     x = i**2
     print(x)
